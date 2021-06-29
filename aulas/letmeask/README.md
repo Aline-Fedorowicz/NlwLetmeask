@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Letmeask" src=".assets/images/logo.svg" width="160px">
+  <img alt="Letmeask" src="src/assets/images/logo.svg" width="160px">
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Letmeask" src=".assets/images/cover.svg" />
+    <img alt="Letmeask" src="src/assets/images/cover.svg" />
 </h1>
 
 <br>
